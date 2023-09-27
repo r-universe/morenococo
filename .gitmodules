@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "crqa"]
 	path = crqa
-	url = https://github.com/cran/crqa
+	url = https://github.com/morenococo/crqa
